@@ -1,1 +1,1 @@
-# My-Sorting-Visualiser
+# My-Sorting-Visualizer
